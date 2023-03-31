@@ -1,0 +1,2 @@
+# wiki
+web nostr wiki
